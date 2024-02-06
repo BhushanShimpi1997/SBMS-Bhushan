@@ -1,0 +1,4 @@
+swagger:
+  title: IRCTC-Provider-API
+  description: This is IRCTC API to book the tickets
+  version: 2.0.0
